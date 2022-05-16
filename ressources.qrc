@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/INCUBATION.png</file>
+        <file>imgs/INFECTED.png</file>
+        <file>imgs/RECOVER.png</file>
+        <file>imgs/SUSCEPTIBLE.png</file>
+        <file>imgs/ERROR.png</file>
+        <file>imgs/pause.png</file>
+        <file>imgs/start.png</file>
+    </qresource>
+</RCC>
