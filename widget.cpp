@@ -137,8 +137,6 @@ void Widget::start()
     {
         itsDate = 0;
 
-        resetPopulation();
-
         itsTimer->start(timerSpeed);
 
         itsTriggerTime = false; // Unlock stop button
